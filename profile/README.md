@@ -7,4 +7,4 @@ A Wiki Project for 太鼓の達人(Taiko no Tatsujin)
 - [Buy me a Coffee](https://buymeacoffee.com/hotsixman)
 
 # Community
-- [Github](https://discord.gg/XDCC3Snp)
+- [Discord](https://discord.gg/XDCC3Snp)
